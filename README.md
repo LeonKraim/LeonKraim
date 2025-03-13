@@ -1,16 +1,31 @@
-## Hi there 👋
+# Nice to see you, I'm ✨ Leon Kraim ✨
+  
+    
+#### Born February, 2007
 
-<!--
-**LeonKraim/LeonKraim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Fullstack and Game development, Microelectronics, Computer Science
 
-Here are some ideas to get you started:
+  
+## Technologies ⚡
+Unity, Blender, C#, python, nodejs, LTspice
+  
+#  [My Portfolio](https://leonkraims-portfolio.vercel.app/) 📄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+<!-- SEO Tags 
+gaming , discord , niedersachsen , hacker 
+hackathon , game jam , gamejam, ludum dare , ludumdare 
+programming , programmieren , programming buddy  
+leagueoflegends , lol , fun , lower saxony , Leon Kraim
 -->
+
+<br>
+      
+> Sollen sich auch alle schämen, die gedankenlos sich der Wunder der Wissenschaft und Technik bedienen und nicht mehr geistig davon erfasst haben als die Kuh von der Botanik der Pflanzen, die sie mit Wohlbehagen frisst
+>
+> -- <cite>Albert Einstein</cite>
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://ko-fi.com/leonkraim)
