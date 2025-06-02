@@ -5,7 +5,7 @@
 
 #### Fullstack and Game development, Microelectronics, Computer Science
 
-私は日本語を勉強います
+私は日本語を勉強しています
 ## Technologies ⚡
 Unity, Blender, C#, python, nodejs, LTspice
   
