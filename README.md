@@ -9,7 +9,7 @@
 ## Technologies ⚡
 Unity, Blender, C#, python, nodejs, LTspice
   
-#  [My Portfolio](https://leonkraims-portfolio.vercel.app/) 📄
+#  [My Portfolio](https://leon-kraim-portfolio.vercel.app/) 📄
 
 
 
