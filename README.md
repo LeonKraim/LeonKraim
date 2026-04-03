@@ -7,7 +7,6 @@
 
 私は日本語を勉強しています
   
-#  [My Portfolio](https://leon-kraim-portfolio.vercel.app/) 📄
 
 
 
